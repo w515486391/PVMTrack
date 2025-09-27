@@ -1,2 +1,2 @@
 # PVMTrack
-The code will be released soon
+PVMTrack: A Prompt-driven Vision Mamba Tracker for UAV Tracking
